@@ -17,8 +17,14 @@
     <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <PackageId>Xamarin.AuditApp</PackageId>
     <PackageVersion>1.0.0</PackageVersion>
-    <Authors>kevinskrei, drovoseg</Authors>
+    <Authors>kevinskrei, yevgeny.sotnikov</Authors>
     <Description>Fork of AuditApp Xamarin component</Description>
+    <PackageIconUrl>https://xampubdl.blob.core.windows.net/components-resources/icons/component-659/icon_114x114.png</PackageIconUrl>
+    <PackageLicenseUrl>https://github.com/drovoseg/XamarinAuditApp/blob/master/LICENSE</PackageLicenseUrl>
+    <Owners>kevinskrei, yevgeny.sotnikov</Owners>
+    <PackageProjectUrl>https://github.com/drovoseg/XamarinAuditApp</PackageProjectUrl>
+    <Summary>Fork of AuditApp Xamarin component</Summary>
+    <Title>Xamarin.AuditApp</Title>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
